@@ -22,8 +22,8 @@ to something familiar and real, like the game Blackjack. Turning the rules of
 Converting the game into code made the conditional statements feel more purposeful rather than
 Abstract: This lab helped me understand how different conditions work together.
 and how small logic errors can entirely alter a program’s behavior. It also
-
 Improved the way I think through problems before writing code.
+
 Lab 9 – Vector Processing and Patterns
 One of my favorite labs was Lab 9 because it challenged me to work with larger sets.
 of data in an organized way. Learning how to process vectors using common patterns
